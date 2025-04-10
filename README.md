@@ -52,4 +52,4 @@ RandomForestRegressor - 0.15
 
 ###  MLflow ტრეკინგი
 ყველა ექსპერიმენტი ჩაიწერა DAGsHub-ზე:
-https://dagshub.com/Lodia15/machineLearningLodia.mlflow/#/experiments/3/runs/83ba40aabc564f8c8ec49ad91227a6a1
+https://dagshub.com/Lodia15/machineLearningLodia.mlflow/#/experiments/3?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
